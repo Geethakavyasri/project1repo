@@ -6,3 +6,6 @@ return(
  <div>
  );
 } 
+class register{
+system.out
+}
